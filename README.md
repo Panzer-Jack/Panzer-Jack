@@ -22,6 +22,6 @@
 
 
 <div align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=Panzer-Jack&show_icons=true&theme=radical" height = 170>
+    <img src="https://github-readme-stats.vercel.app/api?username=Panzer-Jack&show_icons=true&theme=radical" height = 160>
     <img src="https://pic1.imgdb.cn/item/634609e916f2c2beb1a5571b.png" height = 400>
 </div>
