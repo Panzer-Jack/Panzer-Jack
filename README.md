@@ -2,9 +2,9 @@
 
 
 
-- 📫 You can reach me on my [blog](https://panzer-jack.cn/)
-- 🔭 Preparing for postgraduate entrance examination
-- ⚡ A galgame gamer, specially - Yuzusoft
+- # 📫 You can reach me on my [blog](https://panzer-jack.cn/)
+- # 🔭 Preparing for postgraduate entrance examination
+- # ⚡ A galgame gamer, specially - Yuzusoft
 
 
 <div align="center">
