@@ -18,7 +18,7 @@
 
 <div align="center">
 	<img src="https://img.shields.io/badge/C51-SCM-blue" alt="license">
-	<img src="https://img.shields.io/badge/Raspberry Pi-SCM-blue" alt="license">
+	<img src="https://img.shields.io/badge/STM32-SCM-blue" alt="license">
 </div>
 
 <div align="right">
