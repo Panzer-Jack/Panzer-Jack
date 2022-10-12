@@ -11,8 +11,9 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panzer-Jack&theme=dark&layout=compact" height = 250>
 </div>
 	
-<div>
-	<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,php,md,java,raspberrypi,mysql,linux,git,github,ps,selenium,tensorflow,pytorch&theme=dark#gh-dark-mode-only&perline=1">
+<div align="center">
+	<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,php,md,java,mysql&theme=dark#gh-dark-mode-only&perline=1">
+	<img src="https://skillicons.dev/icons?i=raspberrypi,mysql,linux,git,github,ps,selenium,tensorflow,pytorch&theme=dark#gh-dark-mode-only&perline=1">
 </div>
 
 <div align="center">
