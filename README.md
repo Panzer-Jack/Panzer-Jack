@@ -7,10 +7,18 @@
 - ⚡ A galgame gamer, specially - Yuzusoft
 
 
-<div align="right">
-	 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panzer-Jack&theme=dark&layout=compact"></span>
-     <span><img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,idea,vscode,visualstudio,vim,linux,bash,postgres,blender&theme=dark#gh-dark-mode-only">
-</div>
+<table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panzer-Jack&theme=dark&layout=compact">
+            </td>
+            <td>
+                <p><img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,&theme=dark#gh-dark-mode-only"></p>
+		<p><img src="https://img.shields.io/badge/C51-SCM-blue" alt="license">
+    		<img src="https://img.shields.io/badge/Raspberry Pi-SCM-blue" alt="license"></p>
+            </td>
+        </tr>
+</table>
 
 
 <div align="right">
