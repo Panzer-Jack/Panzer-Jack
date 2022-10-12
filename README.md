@@ -1,19 +1,18 @@
 ### Hi there 👋
 
+
+
 - 📫 You can reach me on my [blog](https://panzer-jack.cn/)
-
 - 🔭 Preparing for postgraduate entrance examination
-
 - ⚡ A galgame gamer, specially - Yuzusoft
 
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panzer-Jack&theme=dark&layout=compact" height = 200>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panzer-Jack&theme=dark&layout=compact" height = 250>
 </div>
 	
-<div align="center">
-	<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,&theme=dark#gh-dark-mode-only">
-
+<div>
+	<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,php,md,java,raspberrypi,mysql,linux,git,github,ps,selenium,tensorflow,pytorch&theme=dark#gh-dark-mode-only&perline=1">
 </div>
 
 <div align="center">
