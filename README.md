@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 
-
-- # 📫 You can reach me on my [blog](https://panzer-jack.cn/)
-- # 🔭 Preparing for postgraduate entrance examination
-- # ⚡ A galgame gamer, specially - Yuzusoft
+- ### 📫 You can reach me on my [blog](https://panzer-jack.cn/)
+- ### 🔭 Preparing for postgraduate entrance examination
+- ### ⚡ an amateur in playing harmonica, piano and electronic painting
+- ### ⚡ A galgame gamer, specially - Yuzusoft
 
 
 <div align="center">
