@@ -3,7 +3,7 @@
 
 - ### 📫 You can reach me on my [blog](https://panzer-jack.cn/)
 - ### 🔭 Preparing for postgraduate entrance examination
-- ### ⚡ an amateur in playing harmonica, piano and electronic painting
+- ### 😃 an amateur in playing harmonica, piano and electronic painting
 - ### ⚡ A galgame gamer, specially - Yuzusoft
 
 
