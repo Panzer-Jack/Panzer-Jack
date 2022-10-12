@@ -7,7 +7,7 @@
 - ⚡ A galgame gamer, specially - Yuzusoft
 
 
-<table style="margin-left: auto; margin-right: auto;">
+<table BORDER=0 style="margin-left: auto; margin-right: auto; BORDER=0;">
         <tr>
             <td>
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panzer-Jack&theme=dark&layout=compact">
