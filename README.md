@@ -23,6 +23,6 @@
 </div>
 
 <div align="right">
-	<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Panzer-Jack&theme=dark&layout=compact" height = 160>
-	<img src="https://pic1.imgdb.cn/item/634609e916f2c2beb1a5571b.png" height = 430>
+	<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Panzer-Jack&theme=dark&layout=compact" height = "160px">
+	<img src="https://pic1.imgdb.cn/item/634609e916f2c2beb1a5571b.png" height = "430px">
 </div>
