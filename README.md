@@ -24,5 +24,5 @@
 
 <div align="right">
 	<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Panzer-Jack&theme=dark&layout=compact" height = "160px">
-	<img src="https://pic1.imgdb.cn/item/634609e916f2c2beb1a5571b.png" height = "430px">
+	<img src="https://user-images.githubusercontent.com/81006731/227700351-c10660ff-8d4d-4b25-9ace-96fa8ce271a3.png" height = "430px">
 </div>
