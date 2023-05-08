@@ -3,9 +3,9 @@
 
 - ### 📫 You can reach me on my [blog](https://panzer-jack.cn/)
 - ### 🔭 Preparing for postgraduate entrance examination
+- ### 🎓 ByteDance Youth Training Camp（ 2023 Backend Training Camp ）
 - ### 😃 An amateur in playing harmonica, piano and digital painting
 - ### ⚡ A galgame gamer, specially - Yuzusoft
-
 
 
 <div align="center">
