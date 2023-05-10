@@ -23,6 +23,6 @@ I have many dreams, such as becoming an Indie Game Producer, an independent outs
 </div>
 	
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,php,md,java,mysql&theme=dark#gh-dark-mode-only&perline=1">
+	<img src="https://skillicons.dev/icons?i=python,go,vue,flask,html,js,ts,css,c,cpp,php,md,java,mysql&theme=dark#gh-dark-mode-only&perline=1">
 	<img src="https://skillicons.dev/icons?i=raspberrypi,mysql,linux,git,github,ps,selenium,tensorflow,pytorch&theme=dark#gh-dark-mode-only&perline=1">
 </div>
