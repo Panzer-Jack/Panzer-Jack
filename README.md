@@ -1,4 +1,8 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋</h2>
+<p align="center">
+<a title="github" target="_blank" href="https://github.com/Panzer-Jack"><img src="https://img.shields.io/github/stars/Panzer-Jack?style=social" ></a>
+<a title="Blog" target="_blank" href="https://www.panzer-jack.cn/"><img src="https://img.shields.io/badge/Blog-Panzer_Jack の 博客-%200" ></a>
+</p>
 
 
 - ### 📫 You can reach me on my [blog](https://panzer-jack.cn/)
