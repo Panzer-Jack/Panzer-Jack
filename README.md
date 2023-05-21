@@ -7,7 +7,7 @@
 
 I am a student majoring in Computer Network from Shanghai, and I enjoy creating things that interest me and sharing them here.
 
-I mainly study in the field of web development.
+I mainly study in the field of web dev.
 
 I have many dreams, such as becoming an Indie Game Producer, an independent outsourcer, and studying or making what I interest just at home.
 
