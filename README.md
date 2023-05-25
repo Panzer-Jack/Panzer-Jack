@@ -9,7 +9,7 @@ I am a student majoring in Computer Network from Shanghai, and I enjoy creating 
 
 I mainly study in the field of web dev.
 
-I have many dreams, such as becoming an Indie Game Producer, an independent outsourcer, and studying or making what I interest just at home.
+I have many dreams, such as becoming an Indie Game Producer, an independent outsourcer or a person who can do what he love just at home.
 
 - 🎓 ByteDance Youth Training Camp（ 2023 Backend Training Camp ）
 - 🔭 I’m currently learning Full Stack Developping & Music & Drawing, and Preparing for 2025 Postgraduate Entrance Examination.
