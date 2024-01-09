@@ -15,7 +15,7 @@ In the near future, as long as possible, I will still look for my own ideal life
 
 - 🧳 I’m currently interning at NetEase，as a software engineer.
 - 🎓 The 6th ByteDance Youth Training Camp（ Frontend Advanced Class ）
-- 🔭 I’m currently learning Full Stack Developping & Music & Drawing, and Preparing for 2025 Postgraduate Entrance Examination.
+- 🔭 I’m currently learning Full Stack Developping & Music & Drawing
 - 😃 An amateur in playing harmonica, piano and digital painting
 - ❤️ I like watching Animations、reading Light Novels、playing Galgame and all the element about ACGN
 
