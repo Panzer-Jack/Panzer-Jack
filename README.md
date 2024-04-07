@@ -13,7 +13,7 @@ I am a pragmatistic dreamer. I had many dreams: such as opening a hobby studio t
 
 In the near future, as long as possible, I will still look for my own ideal life style.
 
-- 🧳 I interned at [@bilibli](https://github.com/bilibli/) + [@NetEase](https://github.com/NetEase/)，as a software engineer.
+- 🧳 I interned at @bilibli + @NetEase，as a software engineer.
 - 🎓 The 6th ByteDance Youth Training Camp（ Frontend Advanced Class ）
 - 🔭 I’m currently learning Full Stack Developping & Music & Drawing
 - 😃 An amateur in playing harmonica, piano and digital painting
