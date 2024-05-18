@@ -26,6 +26,6 @@ In the near future, as long as possible, I will still look for my own ideal life
 </div>
 	
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=python,go,vue,flask,html,js,ts,css,c,cpp,php,md,java,mysql&theme=dark#gh-dark-mode-only&perline=1">
+	<img src="https://skillicons.dev/icons?i=python,vue,react,flask,html,js,ts,css,c,cpp,md,mysql&theme=dark#gh-dark-mode-only&perline=1">
 	<img src="https://skillicons.dev/icons?i=raspberrypi,mysql,linux,git,github,ps,selenium,tensorflow,pytorch&theme=dark#gh-dark-mode-only&perline=1">
 </div>
