@@ -13,7 +13,7 @@ I am a pragmatistic dreamer. I had many dreams: such as opening a hobby studio t
 
 In the near future, as long as possible, I will still look for my own ideal life style.
 
-- 🧳 I interned at bilibili、NetEase，as a software engineer.
+- 🧳 I interned at Meituan、bilibili、NetEase，as a software engineer.
 - 🎓 The 6th ByteDance Youth Training Camp（ Frontend Advanced Class ）
 - 🔭 I’m currently learning Full Stack Developping & Music & Drawing
 - 😃 An amateur in playing harmonica, piano and digital painting
@@ -26,6 +26,6 @@ In the near future, as long as possible, I will still look for my own ideal life
 </div>
 	
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=python,vue,react,flask,html,js,ts,css,c,cpp,md,mysql&theme=dark#gh-dark-mode-only&perline=1">
+	<img src="https://skillicons.dev/icons?i=vue,react,dart,flutter,python,flask,html,js,ts,css,c,cpp,md,mysql&theme=dark#gh-dark-mode-only&perline=1">
 	<img src="https://skillicons.dev/icons?i=raspberrypi,mysql,linux,git,github,ps,selenium,tensorflow,pytorch&theme=dark#gh-dark-mode-only&perline=1">
 </div>
