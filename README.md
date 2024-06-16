@@ -13,9 +13,9 @@ I am a pragmatistic dreamer. I had many dreams: such as opening a hobby studio t
 
 In the near future, as long as possible, I will still look for my own ideal life style.
 
-- 🧳 I interned at Meituan、bilibili、NetEase，as a software engineer.
-- 🎓 The 6th ByteDance Youth Training Camp（ Frontend Advanced Class ）
-- 🔭 I’m currently learning Full Stack Developping & Music & Drawing
+- 🧳 Member of Meituan SaaS，as FE & Mobile App Developer
+- 🎓 Working on Vue & React & Flutter and little Android & IOS
+- 🔭 I’m currently learning Game Development & Music & Drawing
 - 😃 An amateur in playing harmonica, piano and digital painting
 - ❤️ I like watching Animations、reading Light Novels、playing Galgame and all the element about ACGN
 
