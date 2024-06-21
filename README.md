@@ -7,7 +7,7 @@
 
 I am a student majoring in Computer Network from Shanghai, and I enjoy creating things that interest me and sharing them here.
 
-I mainly study in the field of web dev.
+I yearn to embark on intriguing endeavors and leave a subtle, lasting imprint on this vast world.
 
 I am a pragmatistic dreamer. I had many dreams: such as opening a hobby studio to do something interesting, becoming an indie game producer or finding a group of Like-minded Lab members do some interesting gizmos. But for now, I'm going to put that aside for a moment and look for the reality. 
 
