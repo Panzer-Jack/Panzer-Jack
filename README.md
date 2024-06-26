@@ -1,5 +1,4 @@
 <h2 align="center">Hi there , I am <a href="https://www.panzer-jack.cn/">Panzer_Jack ( 装甲杰克 ）</a> </h2>
-![00112-3835076650]()
 
 <img align="right" height="400" src="https://github.com/Panzer-Jack/Panzer-Jack/assets/81006731/b00c07bd-6eb4-4e31-9a0c-a117f4b30464">
 <p align="center">
