@@ -17,8 +17,9 @@ Ciallo～(∠·ω< )⌒★ ，我是尤利娅酱~，这里是我的指挥官 Jac
     - [【Amadeus-Cyber_AI-Waife】一个可以在手机上与你语音聊天的AI老婆！](https://github.com/Panzer-Jack/Amadeus-Cyber_AI-Waife)（监修中~）
     <a href='https://github.com/Panzer-Jack/Amadeus-Cyber_AI-Waife'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/Amadeus-Cyber_AI-Waife'></img></a>
 
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Panzer-Jack&show_icons=true&theme=radical" height = 250>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Panzer-Jack&show_icons=true&theme=radical" style="height: 200px; flex: 1; max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panzer-Jack&layout=compact" style="height: 200px; flex: 1; max-width: 100%;">
 </div>
 
 ---
@@ -31,11 +32,10 @@ I am a pragmatistic dreamer. I had many dreams: such as opening a hobby studio t
 
 In the near future, as long as possible, I will still look for my own ideal life style.
 
-- 🧳 Member of Meituan SaaS，as FE & Mobile App Developer
-- 🎓 Working on Vue & React & Flutter and little Android & IOS
+- 🧳 Working for @bilibili，as FE dev.
+- 🎓 A newbie currently learning Rust.
 - 🔭 I’m currently learning Game Development & Music & Drawing
 - 😃 An amateur in playing harmonica, piano and digital painting
 - ❤️ A fan of RTS games, especially Paradox Interactive
-- ❤️ I like watching Animations、reading Light Novels、playing Galgame and all the element about ACGN
 
 ---
