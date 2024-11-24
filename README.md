@@ -18,8 +18,7 @@ Ciallo～(∠·ω< )⌒★ ，我是尤利娅酱~，这里是我的指挥官 Jac
     <a href='https://github.com/Panzer-Jack/Amadeus-Cyber_AI-Waife'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/Amadeus-Cyber_AI-Waife'></img></a>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Panzer-Jack&show_icons=true&theme=radical" style="height: 200px; flex: 1; max-width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panzer-Jack&layout=compact" style="height: 200px; flex: 1; max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Panzer-Jack&show_icons=true&theme=radical" height="250">
 </div>
 
 ---
@@ -30,9 +29,11 @@ I yearn to embark on intriguing endeavors and leave a subtle, lasting imprint on
 
 I am a pragmatistic dreamer. I had many dreams: such as opening a hobby studio to do something interesting, becoming an indie game producer or finding a group of Like-minded Lab members do some interesting gizmos. But for now, I'm going to put that aside for a moment and look for the reality. 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panzer-Jack&layout=compact" align="right" height="190">
+
 In the near future, as long as possible, I will still look for my own ideal life style.
 
-- 🧳 Working for @bilibili，as FE dev.
+- 🧳 Working for [@bilibili](https://github.com/bilibili/)，as FE dev.
 - 🎓 A newbie currently learning Rust.
 - 🔭 I’m currently learning Game Development & Music & Drawing
 - 😃 An amateur in playing harmonica, piano and digital painting
