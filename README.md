@@ -17,7 +17,7 @@ Ciallo～(∠·ω< )⌒★ ，我是尤利娅酱~，这里是我的指挥官 Jac
     - [【Amadeus-Cyber_AI-Waife】一个可以在手机上与你语音聊天的AI老婆！](https://github.com/Panzer-Jack/Amadeus-Cyber_AI-Waife)（监修中~）
     <a href='https://github.com/Panzer-Jack/Amadeus-Cyber_AI-Waife'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/Amadeus-Cyber_AI-Waife'></img></a>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Panzer-Jack&show_icons=true&theme=radical" style="height: 200px; flex: 1; max-width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panzer-Jack&layout=compact" style="height: 200px; flex: 1; max-width: 100%;">
 </div>
