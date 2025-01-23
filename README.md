@@ -5,6 +5,8 @@ Ciallo～(∠·ω< )⌒★ ，我是尤利娅酱~，这里是我的指挥官 Jac
 
     - [【OpenAVG】一个通用性的冒险游戏引擎（不仅仅可以做galgame哦~）](https://github.com/Panzer-Jack/OpenAVG)
     <a href='https://github.com/Panzer-Jack/OpenAVG'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/OpenAVG'></img></a>
+    - [【AmiAmi Subscriber】老婆（划掉）手办追踪器](https://github.com/Panzer-Jack/AmiAmi-subscriber)
+    <a href='https://github.com/Panzer-Jack/OpenAVG'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/AmiAmi-subscriber'></img></a>
 
 - AI Waife ~:
 
