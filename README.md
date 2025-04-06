@@ -1,4 +1,4 @@
-<img align="right" height="800" src="https://github.com/user-attachments/assets/705b4082-74e6-4d66-b569-9421ce6f2af6">
+<img align="right" height="550" src="https://github.com/user-attachments/assets/705b4082-74e6-4d66-b569-9421ce6f2af6">
 Ciallo～(∠·ω< )⌒★ ，我是尤利娅酱~，这里是我的指挥官 Jack 的小仓库。
 
 - Gizmos:
