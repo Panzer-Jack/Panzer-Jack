@@ -11,7 +11,7 @@ Ciallo～(∠·ω< )⌒★ ，我是尤利娅酱~，这里是我的指挥官 Jac
 - AI Waife ~:
     - [【Cyber_AI-Waife】一个会说话会动的AI老婆！](https://github.com/Panzer-Jack/Cyber_AI-Waife)（监修中~）
     <a href='https://github.com/Panzer-Jack/Cyber_AI-Waife'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/Cyber_AI-Waife'></img></a>
-    - [【Cyber_AI-Waife-SDK】Cyber_AI-Waife 的开发工具包：一个集成了 Web 端 Live2D 动画、LLM 智能对话与 VITS 语音合成的 前端通用SDK](https://github.com/Panzer-Jack/Cyber_AI-Waife-SDK)（监修中~）
+    - [【Cyber_AI-Waife-SDK】Cyber_AI-Waife 通用SDK：将你的老婆随意接入到任何前端应用里吧！](https://github.com/Panzer-Jack/Cyber_AI-Waife-SDK)（监修中~）
     <a href='https://github.com/Panzer-Jack/Cyber_AI-Waife-SDK'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/Cyber_AI-Waife-SDK'></img></a>
     - [【ChatGPT_VITS_For_QQ-Rob】一个会说话的QQ群聊语音AI（ChatGPT版）](https://github.com/Panzer-Jack/ChatGPT_VITS_For_QQ-Rob)
     <a href='https://github.com/Panzer-Jack/ChatGPT_VITS_For_QQ-Rob'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/ChatGPT_VITS_For_QQ-Rob'></img></a>
