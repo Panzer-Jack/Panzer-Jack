@@ -5,7 +5,7 @@ Ciallo～(∠·ω< )⌒★ ，我是尤利娅酱~，这里是我的指挥官 Jac
 
     - [【OpenAVG】一个通用性的冒险游戏引擎（不仅仅可以做galgame哦~）](https://github.com/Panzer-Jack/OpenAVG)
     <a href='https://github.com/Panzer-Jack/OpenAVG'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/OpenAVG'></img></a>
-    - [【EasyLive2D】Live2D web sdk base on Pixi.js](https://github.com/Panzer-Jack/easy-live2d)
+    - [【EasyLive2D】基于 Pixi.js 封装的 轻量级 Live2D Web SDK](https://github.com/Panzer-Jack/easy-live2d)
     <a href='https://github.com/Panzer-Jack/easy-live2d'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/easy-live2d'></img></a>
     - [【AmiAmi Subscriber】老婆（划掉）手办追踪器](https://github.com/Panzer-Jack/AmiAmi-subscriber)
     <a href='https://github.com/Panzer-Jack/AmiAmi-subscriber'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/AmiAmi-subscriber'></img></a>
