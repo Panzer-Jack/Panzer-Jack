@@ -5,13 +5,15 @@ Ciallo～(∠·ω< )⌒★ ，我是尤利娅酱~，这里是我的指挥官 Jac
 
     - [【OpenAVG】一个通用性的冒险游戏引擎（不仅仅可以做galgame哦~）](https://github.com/Panzer-Jack/OpenAVG)
     <a href='https://github.com/Panzer-Jack/OpenAVG'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/OpenAVG'></img></a>
+    - [【EasyLive2D】Live2D web sdk base on Pixi.js](https://github.com/Panzer-Jack/easy-live2d)
+    <a href='https://github.com/Panzer-Jack/easy-live2d'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/easy-live2d'></img></a>
     - [【AmiAmi Subscriber】老婆（划掉）手办追踪器](https://github.com/Panzer-Jack/AmiAmi-subscriber)
-    <a href='https://github.com/Panzer-Jack/OpenAVG'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/AmiAmi-subscriber'></img></a>
+    <a href='https://github.com/Panzer-Jack/AmiAmi-subscriber'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/AmiAmi-subscriber'></img></a>
 
 - AI Waife ~:
     - [【Cyber_AI-Waife】一个会说话会动的AI老婆！](https://github.com/Panzer-Jack/Cyber_AI-Waife)（监修中~）
     <a href='https://github.com/Panzer-Jack/Cyber_AI-Waife'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/Cyber_AI-Waife'></img></a>
-    - [【Cyber_AI-Waife-SDK】Cyber_AI-Waife 通用SDK：将你的老婆随意接入到任何前端应用里吧！](https://github.com/Panzer-Jack/Cyber_AI-Waife-SDK)（监修中~）
+    - [【EasyLive2D-AIWaife】Cyber_AI-Waife 通用SDK：将你的老婆随意接入到任何前端应用里吧！](https://github.com/Panzer-Jack/Cyber_AI-Waife-SDK)（监修中~）
     <a href='https://github.com/Panzer-Jack/Cyber_AI-Waife-SDK'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/Cyber_AI-Waife-SDK'></img></a>
     - [【ChatGPT_VITS_For_QQ-Rob】一个会说话的QQ群聊语音AI（ChatGPT版）](https://github.com/Panzer-Jack/ChatGPT_VITS_For_QQ-Rob)
     <a href='https://github.com/Panzer-Jack/ChatGPT_VITS_For_QQ-Rob'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/ChatGPT_VITS_For_QQ-Rob'></img></a>
