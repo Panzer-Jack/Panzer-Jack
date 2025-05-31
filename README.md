@@ -34,7 +34,7 @@ Hello , I am <a href="https://www.panzer-jack.cn/">Panzer_Jack</a>
 
 I yearn to embark on intriguing endeavors and leave a subtle, lasting imprint on this vast world.
 
-I am a pragmatistic dreamer. I had many dreams: such as opening a hobby studio to do something interesting, becoming an indie game producer or finding a group of Like-minded Lab members do some interesting gizmos. But for now, I'm going to put that aside for a moment and look for the reality. 
+I am a pragmatistic dreamer. I had many dreams: such as opening a hobby studio to do something interesting, becoming an indie game producer or full-time indie open sourceror. But for now, I'm going to put that aside for a moment and look for the reality. 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panzer-Jack&layout=compact" align="right" height="190">
 
