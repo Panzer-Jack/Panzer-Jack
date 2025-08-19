@@ -43,7 +43,7 @@ In the near future, as long as possible, I will still look for my own ideal life
 
 - 🧳 Working for [@bilibili](https://github.com/bilibili/)，as FE dev.
 - 🎓 A newbie currently learning Rust.
-- 🔭 I’m currently learning Game Development & Music & Drawing
+- 🔭 I’m currently learning audio-visual & web game dev
 - 😃 An amateur in playing harmonica, piano and digital painting
 - ❤️ A fan of RTS games, especially Paradox Interactive
 
