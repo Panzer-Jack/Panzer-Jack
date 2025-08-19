@@ -37,7 +37,7 @@ I yearn to embark on intriguing endeavors and leave a subtle, lasting imprint on
 
 I am a pragmatistic dreamer. I had many dreams: such as opening a hobby studio to do something interesting, becoming an indie game producer or full-time indie open sourceror. But for now, I'm going to put that aside for a moment and look for the reality. 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panzer-Jack&layout=compact&hide=html,css" align="right" height="190">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panzer-Jack&layout=compact&hide=html,css" align="right" height="220">
 
 In the near future, as long as possible, I will still look for my own ideal life style.
 
