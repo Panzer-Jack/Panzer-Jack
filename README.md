@@ -26,7 +26,7 @@ Ciallo～(∠·ω< )⌒★ ，我是尤利娅酱~，这里是我的指挥官 Jac
     <a href='https://github.com/Panzer-Jack/Amadeus-Cyber_AI-Waife'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/Amadeus-Cyber_AI-Waife'></img></a>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Panzer-Jack&show_icons=true&theme=radical" height="250">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Panzer-Jack&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=radical" height="250">
 </div>
 
 ---
@@ -37,7 +37,7 @@ I yearn to embark on intriguing endeavors and leave a subtle, lasting imprint on
 
 I am a pragmatistic dreamer. I had many dreams: such as opening a hobby studio to do something interesting, becoming an indie game producer or full-time indie open sourceror. But for now, I'm going to put that aside for a moment and look for the reality. 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panzer-Jack&layout=compact&hide=html,css" align="right" height="300">
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Panzer-Jack&layout=compact&hide=html,css" align="right" height="300">
 
 In the near future, as long as possible, I will still look for my own ideal life style.
 
