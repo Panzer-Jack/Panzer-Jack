@@ -33,7 +33,7 @@ Ciallo～(∠·ω< )⌒★ ，我是尤利娅酱~，这里是我的指挥官 Jac
 
 ---
 
-Hello , I am <a href="https://www.panzer-jack.cn/">Panzer_Jack</a>
+Hello , I am <a href="https://blog.panzer-jack.cn/">Panzer_Jack</a>
 
 I yearn to embark on intriguing endeavors and leave a subtle, lasting imprint on this vast world.
 
