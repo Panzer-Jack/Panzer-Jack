@@ -4,14 +4,16 @@
 Ciallo～(∠·ω< )⌒★ ，我是尤利娅酱~，这里是我的指挥官 Jack 的小仓库。
 
 - Gizmos:
-    - [【feuse-mcp】一个实用的前端MCP工具集](https://github.com/Panzer-Jack/feuse-mcp)
-    <a href='https://github.com/Panzer-Jack/feuse-mcp'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/feuse-mcp'></img></a>
-    - [【easy-live2d】让 Live2D 集成变得更简单！](https://github.com/Panzer-Jack/easy-live2d)
-    <a href='https://github.com/Panzer-Jack/easy-live2d'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/easy-live2d'></img></a>
-    - [【img-ascii-term】Convert images to colorful ASCII art for terminal display](https://github.com/Panzer-Jack/img-ascii-term)
-    <a href='https://github.com/Panzer-Jack/img-ascii-term'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/img-ascii-term'></img></a>
     - [【OpenAVG】一个通用性的冒险游戏引擎（不仅仅可以做galgame哦~）](https://github.com/Panzer-Jack/OpenAVG)
     <a href='https://github.com/Panzer-Jack/OpenAVG'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/OpenAVG'></img></a>
+    - [【Copiwaifu】你的 Live2D AI 领航员，同步完成。让我们一起调试这个世界吧！](https://github.com/Panzer-Jack/Copiwaifu)
+    <a href='https://github.com/Panzer-Jack/Copiwaifu'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/Copiwaifu'></img></a>
+    - [【easy-live2d】让 Live2D 集成变得更简单！](https://github.com/Panzer-Jack/easy-live2d)
+    <a href='https://github.com/Panzer-Jack/easy-live2d'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/easy-live2d'></img></a>
+    - [【feuse-mcp】一个实用的前端MCP工具集](https://github.com/Panzer-Jack/feuse-mcp)
+    <a href='https://github.com/Panzer-Jack/feuse-mcp'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/feuse-mcp'></img></a>
+    - [【img-ascii-term】Convert images to colorful ASCII art for terminal display](https://github.com/Panzer-Jack/img-ascii-term)
+    <a href='https://github.com/Panzer-Jack/img-ascii-term'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/img-ascii-term'></img></a>
     - [【AmiAmi Subscriber】老婆（划掉）手办追踪器](https://github.com/Panzer-Jack/AmiAmi-subscriber)
     <a href='https://github.com/Panzer-Jack/AmiAmi-subscriber'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/AmiAmi-subscriber'></img></a>
 
