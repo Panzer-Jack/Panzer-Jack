@@ -30,7 +30,7 @@ Ciallo～(∠·ω< )⌒★ ，我是尤利娅酱~，这里是我的指挥官 Jac
     <a href='https://github.com/Panzer-Jack/Amadeus-Cyber_AI-Waife'><img align='middle' src='https://shields.io/github/stars/Panzer-Jack/Amadeus-Cyber_AI-Waife'></img></a>
 
 <div align="center">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Panzer-Jack&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=radical" height="250">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Panzer-Jack&show_icons=true&theme=radical" height="250">
 </div>
 
 ---
